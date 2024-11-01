@@ -34,7 +34,7 @@ body {
     font-optical-sizing: auto;
    font-weight: 900;
     text-transform: capitalize;
-    font-size: 18px;
+    font-size: 17px;
     color: #262626;
     letter-spacing: 0.2px;
     margin-left: 12px;
@@ -75,14 +75,14 @@ h1{
     font-family: "Gravitas One", serif;
     font-weight: 400;
     text-transform: capitalize;
-    font-size: 48px;
+    font-size: 42px;
     letter-spacing: 1px;
 }
 h2{
     font-family: "Dancing Script", serif;
     font-weight: 700;
     text-transform: capitalize;
-    font-size: 45px;
+    font-size: 40px;
     letter-spacing: 1px;
 }
 h3{
