@@ -46,11 +46,11 @@ body {
 }
 
 .navbar .navbar-brand {
-    font-family: "Gravitas One", serif;
-    font-weight: auto;
+    font-family: "Dancing Script", serif;
+    font-weight: 700;
     font-optical-sizing: auto;
     text-transform: uppercase;
-    font-size: 25px;
+    font-size: 30px;
     letter-spacing: 0;
     color: #262626;
 }
